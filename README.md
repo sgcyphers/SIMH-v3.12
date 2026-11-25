@@ -59,7 +59,7 @@ SIMH V3.x implements simulators for:
 -    Honeywell H316/H516
 -    MITS Altair 8800, 8080 only
 -    Royal-McBee LGP-30, LGP-21
--    Scientific Data https://simh.trailing-edge.com/sources/simtools/Systems SDS 940
+-    Scientific Data Systems SDS 940
 -    Xerox Data Systems Sigma 32b systems 
 
 Also available are a collection of [tools](https://simh.trailing-edge.com/sources/simtools/ "SimTools") for manipulating simulator file formats and for cross-assembling code for the PDP-1, PDP-7, PDP-8, and PDP-11. 
