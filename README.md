@@ -1,4 +1,4 @@
-## SIMH-v3.12
+# SIMH-v3.12
 ### The Computer History Simulation Project 
 ---
 
